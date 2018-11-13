@@ -1,0 +1,7 @@
+c:\users\theto\source\repos\Events\Events\bin\Debug\Events.exe.config
+c:\users\theto\source\repos\Events\Events\bin\Debug\Events.exe
+c:\users\theto\source\repos\Events\Events\bin\Debug\Events.pdb
+c:\users\theto\source\repos\Events\Events\obj\Debug\Events.csprojAssemblyReference.cache
+c:\users\theto\source\repos\Events\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+c:\users\theto\source\repos\Events\Events\obj\Debug\Events.exe
+c:\users\theto\source\repos\Events\Events\obj\Debug\Events.pdb
